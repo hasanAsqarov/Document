@@ -1,0 +1,545 @@
+*{
+    margin: 0 ;
+    padding: 0;
+}
+/* _________________________star header____________________________ */
+.contenir{
+    
+    margin: 0 auto;
+ 
+    width: 1340px;
+
+
+}
+.nov_ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-left: 164px;
+}
+.box{
+    
+    text-decoration: none;
+    display: flex;
+    margin-left: 28px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: #000;
+}
+.header{
+    display: flex;
+  
+}
+.box_img{
+    margin-left: 97px;
+}
+.vektor{
+    margin-left: 379px;
+}
+/* _________________________stopheader____________________________ */
+
+
+
+/* _______________________________stra deepel_______________________ */
+
+.deepel_h1{
+  
+}
+.deepil{
+    display: flex;
+    background-color:#F0EFEB; 
+    width: 1340px;
+}
+.h1{
+    margin-top: 90px;
+    width: 573px;
+    height: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+}
+.v{
+    margin-left: 188px;
+}
+.h11{
+    margin-top: 63px;
+    width: 373px;
+    height: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+}
+.deeper_p{
+    margin-top: 42px;
+    width: 541px;
+    height: 61px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+.deeper_img{
+    display: flex;
+}
+/* _______________________________stop deepel_______________________ */
+
+
+
+
+/* ________________________star explein___________________________ */
+
+.explein_h2{
+    width: 692px;
+    height: 42px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 366px;
+    margin-top: 62px;
+    margin-bottom: 26px;
+    
+}
+.explein_h4{
+    width: 632px;
+    height: 62px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 26px;
+    color: rgb(83, 83, 83);
+    margin-left: 373px;
+    
+}
+.explein-p{
+    width: 391px;
+    margin-top: 57px;
+    height: 23px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 494px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+/* ________________________stop explein___________________________ */
+
+
+
+/* _____________________________STAR OUR________________________________ */
+
+.our_h1{
+    width: 256px;
+    height: 42px;
+    margin-top: 88px;
+    margin-left: 569px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px
+}
+.our_box{
+    margin-top: 55px;
+    margin-left: 63px;
+}
+.our_boxx{
+  
+}
+.our_div{
+
+    width: 314px;
+    height: 584px;
+    margin-left: 63px;
+}
+.div_p{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    width: 156px;
+    height: 61px;
+    text-align: center;
+    margin-bottom: 15px;
+    color: rgb(0, 0, 0);
+    margin-left: 88px;
+}
+.div_pp{
+    font-family: 'Roboto', sans-serif;
+    width: 73px;
+    height: 21px;
+    color: rgb(75, 75, 75);
+    margin-left: 128px;
+}
+
+.divv_p0{
+   font-family: 'Roboto', sans-serif;
+   margin-left: 122px;
+   margin-top: 12px;
+   font-weight: bold;
+   color: #000;
+}
+.ou{
+    color: #000;
+}
+.our_imglar{
+    margin-left: 122px;
+    display: flex;
+    margin-top: 52px;
+}
+/* _____________________________STOP OUR________________________________ */
+
+
+/* _______________________________-STAR PEOPLE________________________ */
+.people{
+    margin-top: 222px;
+    display: flex;
+    background: rgba(204, 204, 204, 0.3);
+}
+.people_img{
+    margin-left: 138px;
+  
+}
+.a{
+    color: #000;
+}
+.peop{
+    margin: 88px;
+    display: flex;  
+}
+.people_h3{
+    margin-top: 19px;
+    font-family: 'Roboto', sans-serif;
+    width: 314px;
+    height: 42px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 56px;
+}
+.people_p{
+    margin-top: 19px;
+    font-family: 'Roboto', sans-serif;
+    width: 593px;
+    height: 252px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+}
+.people_div{
+    margin-left: 44px;
+}
+/* _______________________________-STOP PEOPLE________________________ */
+
+/* __________________________star culturre_________________________ */
+
+.culturre{
+    
+    background: rgba(204, 204, 204, 0.6);
+    display: flex;
+}
+.people_h33{
+    font-family: 'Roboto', sans-serif;
+    width: 344px;
+    margin-top: 19px;
+    height: 42px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 56px;
+}
+.culturre_pp{
+    margin-top: 19px;
+    font-family: 'Roboto', sans-serif;
+    width: 513px;
+    height: 252px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+}
+.culturre_div{
+    margin-left: 188px;
+    
+}
+.culturre_img{
+    margin-top: 73px;
+    margin-left: 44px;
+}
+.peoplee{
+        display: flex;
+        background: rgba(204, 204, 204, 0.3);
+ 
+}
+
+/* __________________________stop culturre_________________________ */
+/* ______________________________star each___________________________ */
+
+.each_h2{
+    width: 705px;
+    height: 42px;
+    margin-top: 66px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 335px;
+}
+.each_h22{
+   
+    width: 705px;
+    height: 42px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 382px;
+}
+.each{
+    margin-top: 103px;
+  
+    border: 1px solid rgb(0, 0, 0);
+    height: 666px;
+}
+.each_diiv{
+    margin-top: 259px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 1230px;
+    height: 322px;
+}
+.each_img{
+    margin-bottom: 562px;
+}
+
+.each_p{
+    margin-top: 35px;
+    margin-bottom: 45px;
+    display: flex;
+    width: 248px;height: 78px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+}
+.pop{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+   
+    font-size: 20px;
+    width: 251px;
+    text-align: center;
+}
+.IMGLAR{
+  
+ 
+    height: 33px;
+    display: flex;
+    margin-top: 102px;
+    
+    
+}
+.bg{
+    background-image: url('./img/Rectangle 1.png');
+    display: flex;
+    width: 1330px;
+    height: 444px;
+    margin-top: 205px;
+}
+.imgg{
+    margin-top: 56px;
+    margin-left: 140px;
+}
+.kl{
+    display: flex;
+}
+/* ______________________________stop each___________________________ */
+.button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #21F7EC;  
+    border: 1px solid#21F7EC;
+
+    margin-left: 124px;
+}
+.button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: 
+    #D399FF;  
+    margin-left: 124px;
+    border: 1px solid #D399FF;
+
+}
+.buttonn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: 
+    #F94C43;  
+    margin-left: 124px;
+    border: 1px solid #F94C43;
+
+}
+.buutton{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:   #18A5C6;  
+    border: 1px solid #18A5C6;
+    margin-left: 124px;
+}
+.buttoon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color:#D38F62;  
+    border: 1px solid #D38F62;
+    margin-left: 124px;
+}
+.buttton{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #33D3BC;  
+    border: 1px solid #33D3BC;
+    margin-left: 124px;
+}
+.button_p{
+    display: flex;
+    width: 142px;
+    height: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+   margin-left: 95px;
+   margin-top: 20px;
+}
+.button_pp{
+    display: flex;
+    width: 142px;
+    height: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 122px;
+ 
+}
+.xasan{
+    width: 338px;
+    height: 167px;
+    
+    margin-left: 13px;
+    margin-top: 34px;
+}
+.xasann{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 183px;
+    margin-bottom: 111px;
+    margin-top: 20px;
+}
+.as{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    width: 430px;
+    height: 42px;
+    margin-top: 190px;
+    margin-left: 494px;
+}
+.aas{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    width: 430px;
+    margin-top: 12px;
+    height: 42px;
+
+    margin-left: 514px;
+}
+.keppp{
+    width: 529px;
+    height: 42px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    align-items: center;
+    margin-left: 522px;
+    margin-top: 79px;
+}
+.kep_p{
+  
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px; 
+    text-align: center;
+    margin-top: 9px;
+    width: 496px;
+    height: 43px;
+    margin-left: 386px;
+   
+}
+/* ______________________________ star input_______________________ */
+.ino{
+    width: 153px;
+    height: 36px;  
+    display: flex;
+    margin-left: 12px;
+   
+}
+
+.input{
+    width: 153px;
+    display: flex;
+    margin-left: 432px;
+    margin-top: 26px;
+    height: 36px; 
+}
+.in{ 
+    width: 153px;
+    display: flex;
+    
+    margin-left: 60px;
+    height: 36px; 
+
+}
+.loo{
+    width: 370px;
+  
+    height: 36px; 
+}
+
+.inpuutet{
+    width: 370px;
+    height: 36px;
+}
+.input11{
+    background-color: #fff
+}
+.qw{
+    width: 370px;
+    height: 36px;
+    margin-left: 445px;
+    margin-top: 18px;
+}
+/* ______________________________ stop input_______________________ */
